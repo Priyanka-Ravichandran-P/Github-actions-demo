@@ -12,5 +12,3 @@ jobs:
               run: pwd
             - name: Print GoodBye
               run: echo "Goodbye, World!"
-  
-           
