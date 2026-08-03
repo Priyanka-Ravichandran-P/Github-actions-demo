@@ -10,5 +10,7 @@ jobs:
               run: date
             - name: Print Current Directory
               run: pwd
+            - name: Print Hi
+              run: "Hi"
             - name: Print GoodBye
-              run: echo "Goodbye, World!"
+              run: echo "Goodbye!"
